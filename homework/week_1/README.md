@@ -9,7 +9,7 @@
 <img src="2.png" height ="300" />
 
 #### (p.24)
-<img src="3.png" height ="350" />
+<img src="3.png" height ="200" />
 
 #### (p.25)
 <img src="4.png" height ="800" />
