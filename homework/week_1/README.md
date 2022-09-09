@@ -6,7 +6,7 @@
 <img src="1.png" height ="400" />
 
 #### (p.23)
-<img src="2.png" height ="350" />
+<img src="2.png" height ="300" />
 
 #### (p.24)
 <img src="3.png" height ="350" />
