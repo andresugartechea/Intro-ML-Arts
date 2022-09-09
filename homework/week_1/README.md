@@ -5,6 +5,8 @@
 #### (p.11)
 <img src="1.png" height ="400" />
 
+---------
+
 #### (p.23)
 <img src="2.png" height ="300" />
 
